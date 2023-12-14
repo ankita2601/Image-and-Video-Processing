@@ -13,6 +13,7 @@ This project implements a fuzzy edge detection algorithm and image enhancement t
 - Image enhancement through unsharp masking for improved details.
 
 ## Results
+
 Visualizations of the original image, grayscale image, gradients, fuzzy edge detection, and enhanced image are provided below. 
 ![image](https://github.com/ankita2601/Image-and-Video-Processing/assets/119096924/fd391380-3d72-4492-843a-76d5e4f982bd)
 
